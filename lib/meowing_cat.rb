@@ -11,7 +11,7 @@ attr_accessor :name
 end
 
 
-maru = cat.new
+maru = Cat.new
 maru.name = "Maru"
 maru.name
 maru.meow
